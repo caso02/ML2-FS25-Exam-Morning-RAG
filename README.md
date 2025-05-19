@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-iwi/ML2-FS25-Exam-Morning-RAG/blob/main/NLP_RAG.ipynb)
